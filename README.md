@@ -1,5 +1,7 @@
 ﻿# Chaos Generator for NDI
 
+![Chaos for NDI Logo](1.png)
+
 **Tractus.Ndi.Chaos** is a console application that generates **NDI** video frames for testing and demonstration purposes. It supports customizable dimensions, frame rates, clock jitter, and various timecode modes.
 
 The purpose is to create a "perfect" NDI source, and allow users to gradually mess with the source in order to introduce issues in applications that consume NDI.
@@ -7,6 +9,8 @@ The purpose is to create a "perfect" NDI source, and allow users to gradually me
 In other words, it answers the question, "what happens when this application ingests an NDI source that misbehaves?"
 
 ---
+
+
 
 ## Usage
 
