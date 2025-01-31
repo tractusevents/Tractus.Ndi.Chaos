@@ -91,25 +91,6 @@ Use the commands below to interact with the running sender:
 
 ---
 
-## Prerequisites - Development
-
-- [.NET 6 (or later)](https://dotnet.microsoft.com/download)
-- [NewTek NDI SDK](https://ndi.tv/sdk/) (the project references `NewTek.NDI` namespaces).
-- A valid font file, **SpaceMono-Regular.ttf**, in the same directory if you want text rendering inside your frames.
-
-----
-
-## Building and Running
-
-1. **Clone** or **download** this repository.
-2. Open a terminal in the project directory.
-3. Run:
-   ```bash
-   dotnet run -- [key=value] ...
-   ```
-   *Or build the project and run the resulting `.exe` with the same arguments.*
----
-
 ### Author
 
 **Tractus.Ndi.Chaos** — *by Tractus Events*
